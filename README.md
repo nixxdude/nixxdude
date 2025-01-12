@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @nixxdude
-- 👀 I’m interested in ... Rust!
-- 🌱 I’m currently learning ... Rust!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...
+- Hullo, I am jumperc.
+- I am interesting in breaking software so I
+  can get that sweet, sweet 💰
+- Currently learning Python.
 
 <!---
 nixxdude/nixxdude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
